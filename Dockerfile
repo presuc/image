@@ -1,1 +1,1 @@
-From k8s.gcr.io/ubuntu-slim:0.1
+From cr.l5d.io/linkerd/proxy-init:v1.5.3
