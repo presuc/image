@@ -1,1 +1,1 @@
-From cr.l5d.io/linkerd/proxy-init:v1.5.3
+From cr.l5d.io/linkerd/proxy:edge-22.2.3
